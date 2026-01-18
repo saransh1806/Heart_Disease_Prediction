@@ -95,3 +95,7 @@ Matplotlib
 Seaborn
 
 Scikit-learn
+
+Acknowledgement
+
+The dataset used in this project was obtained from Kaggle and is publicly available for educational and research purposes. Proper credit is given to the original data contributors. This project is intended solely for learning and demonstration of machine learning techniques and does not represent a clinical diagnostic tool.
