@@ -1,5 +1,6 @@
 # Heart_Disease_Prediction
 ❤️ Heart Disease Prediction using Machine Learning
+
 📌 Project Overview
 
 Heart disease is one of the leading causes of death worldwide. Early prediction can help in timely medical intervention and prevention.
@@ -78,6 +79,8 @@ All three models were evaluated and compared using ROC-AUC scores
 Logistic Regression performed the best, providing a strong balance between simplicity and performance
 
 ROC curve analysis confirmed Logistic Regression as the most reliable model for this dataset
+
+Out of the three model Logistic Regression and Random Forest Regressor have an AUC of 0.93 whereas Decision Tree have AUC of 0.88.On comparing accuracy Logistic Regression have outperformed other two model having an accuracy of nearly 85%.Also the AP(Average precision) for logistic regression model is 94% which matches the AP of Random Forest hence by accuracy comparison Logistic Regression model is best but both Logistic regression and Random FOrest Classifier can be used for this data set
 
 🛠️ Technologies & Libraries Used
 
